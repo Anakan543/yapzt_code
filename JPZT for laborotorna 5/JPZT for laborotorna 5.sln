@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPZT for laborotorna 5", "JPZT for laborotorna 5.csproj", "{A813DF48-8ABE-4100-A222-5AEDA92E98A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPZT.Tests", "..\JPZT.Tests\JPZT.Tests.csproj", "{AF8D88D9-70FE-4A25-A45C-AAB3D96F2609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A813DF48-8ABE-4100-A222-5AEDA92E98A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A813DF48-8ABE-4100-A222-5AEDA92E98A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A813DF48-8ABE-4100-A222-5AEDA92E98A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A813DF48-8ABE-4100-A222-5AEDA92E98A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8D88D9-70FE-4A25-A45C-AAB3D96F2609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8D88D9-70FE-4A25-A45C-AAB3D96F2609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8D88D9-70FE-4A25-A45C-AAB3D96F2609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8D88D9-70FE-4A25-A45C-AAB3D96F2609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CE79BD1-7832-4005-98BB-F0B21AD6CE6B}
+	EndGlobalSection
+EndGlobal
